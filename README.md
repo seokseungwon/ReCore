@@ -1,1 +1,1 @@
-# Re:Core
+# ReCore
